@@ -64,5 +64,3 @@ __RECC: v1.2.0.0 - Final Release__
 
 __KernelBlackMagic: v2.2.1__
 
-
-Translated with www.DeepL.com/Translator (free version)

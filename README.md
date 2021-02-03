@@ -1,65 +1,68 @@
 # RECC - Rio External Csgo Cheat
 
-Приватный внешний чит для CS:GO, в прошлом. (Теперь в жопу эту ксго, надо вернутся в 2015, там поиграю.)
+Private external cheat for CS:GO, in the past. (Now fuck this csgo, I need to go back to 2015, I'll play there.)
 
-Он использует специальный __драйвер__ - __KernelBlackMagic__ для чтения и записи памяти.
+It uses a special __driver__ - __KernelBlackMagic__ to read and write memory.
 
-Именно поэтому достигается __полная незаметность от VAC!__
+That's why it achieves complete invisibility from VAC!
 
 
 [![](https://i.imgur.com/teWWodP.jpg)](https://i.imgur.com/teWWodP.jpg)
 
  
 
-## Важные ссылки
-Альбом на Imgur со скриншотами чита: https://imgur.com/a/NR96VVx
+## Important links
+An album on Imgur with screenshots of the reader: https://imgur.com/a/NR96VVx
 
-Источник оффсетов для чита: https://github.com/frk1/hazedumper
+Source of offsets for the reader: https://github.com/frk1/hazedumper
 
  
 
-__Как можно со мной связатся:__
+__How to contact me:__
 
 Discord: TheRioMiner#9902
 
-Steam: https://steamcommunity.com/id/kernelblackmagic/  (__на этом акке юзал чит__)
+Steam: https://steamcommunity.com/id/kernelblackmagic/ (__I cheated on this account__)
 
 Gmail: dakada59@gmail.com
 
  
 
-## Текущие функции в чите
-__TriggerBot__ - С простой задержкой перед выстрелом и без задержки, можно выбирать задержку и разброс времени задержки.
+## Current Functions in the cheat
+__TriggerBot__ - With a simple delay before the shot and without a delay, you can choose the delay and the spread of the delay time.
 
 [![](https://i.imgur.com/RWmZKRW.jpg)](https://i.imgur.com/RWmZKRW.jpg)
 
  
 
-__Glow Wallhack__ - Простая подсветка врагов, можно выбирать цвет и непрозрачность.
+__Glow Wallhack__ - Simple highlighting of enemies, you can choose the color and opacity.
 
 [![](https://i.imgur.com/cRjAnDr.jpg)](https://i.imgur.com/cRjAnDr.jpg)
 
  
 
-__Bunnyhop__ - Он и в африке баннихоп).
+__Bunnyhop__ - This is a bunnyhop.)
 
 [![](https://i.imgur.com/AWDrwUF.jpg)](https://i.imgur.com/AWDrwUF.jpg)
 
  
 
-__AntiFlash__ - Антифлеш, можно выбирать насколько сильно будет подавлятся ослепленность, от 20% до 100% подавления.
+__AntiFlash__ - Anti-Flash, you can choose how much will be suppressed dazzle, from 20% to 100% suppression.
 
 [![](https://i.imgur.com/sT82H9O.jpg)](https://i.imgur.com/sT82H9O.jpg)
 
  
 
-__Показ рангов__ - Специальная таблица показывающая всех игроков на сервере, показывает ранг, кол. побед.
+__Rank Display__ - Special table showing all players on the server, shows the rank, number of wins.
 
 [![](https://i.imgur.com/W9JjZPt.jpg)](https://i.imgur.com/W9JjZPt.jpg)
 
  
 
-## Текущий статус
-__RECC: v1.2.0.0 - Финальный релиз__
+## Current Status
+__RECC: v1.2.0.0 - Final Release__
 
 __KernelBlackMagic: v2.2.1__
+
+
+Translated with www.DeepL.com/Translator (free version)
